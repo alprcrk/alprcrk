@@ -1,4 +1,16 @@
 # 💫 About Me:
+
+🔭 Merhaba, Ben Alper. Son zamanlarda web geliştirme alanında kendimi geliştirmeye başladım ve dijital dünyada iz bırakma kararı aldım. Şu an için yeni başlayan bir seviyede olabilirim, ancak öğrenmeye ve büyümeye olan hevesim sınırsız.
+
+⚡ İlgi alanlarım arasında HTML, CSS, Bootstrap, React, JavaScript ve jQuery bulunuyor. Bu dilleri öğrenirken, popüler web geliştirme çerçevelerine de vakıf oldum. Ayrıca WordPress gibi popüler içerik yönetim sistemlerini kullanma deneyimim mevcut.
+
+🌱 Aynı zamanda sürekli bir araştırmacıyım, sürekli yeni teknolojileri keşfediyor ve en son endüstri trendlerini takip ediyorum. Odak noktam, Python, DJANGO ve SQLITE alanındaki yeteneklerimi geliştirmek üzerine. Teknik becerilerimde ilerleme konusundaki kararlılığımı sürdürürken öğrenme sürecinde sabırlı ve azimli bir yaklaşım sergiliyorum.
+
+👯 Ayrıca, uyum sağlayabilen ve sorumluluk sahibi bir takım oyuncusu olduğumu düşünüyorum. Müşteri ihtiyaçlarını anlamak ve beklentileri karşılamak benim yaklaşımımın merkezinde yer alıyor.
+
+🤝 Bu yolda, kariyerimi geliştirmek için fırsatlar arayışı içerisindeyim ve eğitim sürecimde her adımda becerilerimi daha da yükseltmeye çalışıyorum.
+
+--
 🔭 Greetings, I'm Alper. I've recently embarked on a journey into the realm of web development, eager to make my mark in the digital landscape. While I'm currently at a beginner level, my enthusiasm for learning and growth knows no bounds.
 
 ⚡ My interests span across HTML, CSS, Bootstrap, React, JavaScript, and jQuery. As I delve into mastering these languages, I've also acquainted myself with prominent web development frameworks. Moreover, I possess hands-on experience with popular CMS platforms such as WordPress.
