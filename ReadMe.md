@@ -9,8 +9,8 @@
 👯 Ayrıca, uyum sağlayabilen ve sorumluluk sahibi bir takım oyuncusu olduğumu düşünüyorum. Müşteri ihtiyaçlarını anlamak ve beklentileri karşılamak benim yaklaşımımın merkezinde yer alıyor.
 
 🤝 Bu yolda, kariyerimi geliştirmek için fırsatlar arayışı içerisindeyim ve eğitim sürecimde her adımda becerilerimi daha da yükseltmeye çalışıyorum.
+#
 
---
 🔭 Greetings, I'm Alper. I've recently embarked on a journey into the realm of web development, eager to make my mark in the digital landscape. While I'm currently at a beginner level, my enthusiasm for learning and growth knows no bounds.
 
 ⚡ My interests span across HTML, CSS, Bootstrap, React, JavaScript, and jQuery. As I delve into mastering these languages, I've also acquainted myself with prominent web development frameworks. Moreover, I possess hands-on experience with popular CMS platforms such as WordPress.
