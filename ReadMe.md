@@ -1,26 +1,8 @@
-# 💫 About Me:
+# Hi there 👋
 
-🔭 Merhaba, Ben Alper. Web geliştirme alanında kendimi hergün geliştirmeye devam ediyorum ve dijital dünyada iz bırakma kararı aldım. Öğrenmeye ve büyümeye olan hevesim sınırsız.
-
-⚡ İlgi alanlarım arasında HTML, CSS, Sass, Bootstrap, ReactJS, JavaScript ve jQuery bulunuyor.  Çünkü Web tabanlı ilerlemeyi seviyorum.
-
-🌱 Aynı zamanda sürekli bir araştırmacıyım, sürekli yeni teknolojileri keşfediyor ve son endüstri trendlerini takip ediyorum. Odak noktam, Python, DJANGO ve SQLITE alanındaki yeteneklerimi geliştirmek üzerine. Teknik becerilerimde ilerleme konusundaki kararlılığımı sürdürürken öğrenme sürecinde sabırlı ve azimli bir yaklaşım sergiliyorum.
-
-👯 Uyum sağlayabilen ve sorumluluk sahibi bir takım arkadaşı olduğumu düşünüyorum. Müşteri ihtiyaçlarını anlamak ve beklentileri karşılamak benim hedefimin merkezinde yer alıyor.
-
-🤝 Bu yolda, kariyerimi geliştirmek için fırsatlar arayışı içerisindeyim ve becerilerimi her gün daha da geliştirmeye çalışıyorum.
+⚡I am a web developer, continuously enhancing my skills every day. Thanks to my passion for programming, I have decided to leave a mark in the digital world.
+📫 [Get in touch with me](mailto:alprcrk@hotmail.com)
 ##
-
-🔭 Hello, I'm Alper. I continue to enhance my skills in web development every day, and I've decided to leave a digital footprint in the world. My enthusiasm for learning and growth knows no bounds.
-
-⚡ My areas of interest include HTML, CSS, Sass, Bootstrap, ReactJS, JavaScript, and jQuery, as I enjoy advancing in the realm of the web.
-
-🌱 Additionally, I am a perpetual researcher, constantly discovering new technologies and keeping up with the latest industry trends. My focus lies in honing my skills in Python, DJANGO, and SQLITE. While I maintain a determined approach to improving my technical abilities, I exhibit patience and perseverance throughout the learning process.
-
-👯 I consider myself an adaptable and responsible team player. Understanding client needs and meeting expectations are at the core of my objectives.
-
-🤝 On this journey, I am actively seeking opportunities to advance my career and strive to enhance my skills every day. Could you please translate this text into proper English for me?
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/KRZkMtYzdS) 
