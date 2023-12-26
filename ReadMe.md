@@ -1,6 +1,7 @@
 # Hi there 👋
 
 ⚡I am a web developer, continuously enhancing my skills every day. Thanks to my passion for programming, I have decided to leave a mark in the digital world.
+
 📫 [Get in touch with me](mailto:alprcrk@hotmail.com)
 ##
 
